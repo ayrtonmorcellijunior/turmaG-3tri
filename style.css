@@ -1,10 +1,12 @@
 <style>
 body {
-    font-family: 'Arial', sans-serif; /* Altere para a fonte desejada */
+    font-family: 'Arial', sans-serif;  
+    background-color: blue;
 }
 
 h1, h2 {
     text-align: center;
+
 }
 
 p {
@@ -13,9 +15,8 @@ p {
 }
 
 img {
-    width: 50%; /* Altere conforme necessário */
+    width: 50%;  
     height: auto;
     display: block;
-    margin: 0 auto; /* Centraliza a imagem */
-}
+    margin: 0 auto;  
 </style>
