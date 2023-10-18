@@ -1,0 +1,21 @@
+<style>
+body {
+    font-family: 'Arial', sans-serif; /* Altere para a fonte desejada */
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    color: red;
+}
+
+img {
+    width: 50%; /* Altere conforme necessário */
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Centraliza a imagem */
+}
+</style>
