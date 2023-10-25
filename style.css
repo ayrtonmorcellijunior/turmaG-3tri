@@ -4,15 +4,22 @@ body {
     background-color: rgb(171, 171, 173);
 }
 
-h1, h2 {
+titulo {
+    font-size: 50px;
     text-align: center;
+    color: blue;
 
 }
 
+h2 {
+    text-align: center;
+
+}
 p {
     text-align: justify;
     color: red;
 }
+
 
 img {
     width: 50%;  
